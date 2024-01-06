@@ -1,1 +1,2 @@
-# JobsAPI
+# JobsAPI - Teste técnico para Desenvolvedor .NET Jr
+O teste técnico para o nível Júnior envolve a criação de uma API REST full para gerenciar anúncios de emprego. Os endpoints incluem operações como visualizar todos os anúncios, obter um anúncio específico por ID, criar um novo anúncio, atualizar um anúncio existente e excluir um anúncio existente. A entidade principal é "Job", que possui atributos como ID (gerado automaticamente), título, descrição, localização e salário. Os requisitos incluem o uso de ASP.NET Core, banco de dados InMemory com Entity Framework Core, e posteriormente foi feita a implementação com o SQLServer, suporte às operações CRUD básicas e respostas HTTP apropriadas. Além disso, os dados trocados com a API devem ser formatados em JSON.
